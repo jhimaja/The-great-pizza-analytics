@@ -50,9 +50,8 @@ Using SQL, I solved various business questions, ranging from basic data retrieva
     ```bash
     git clone https://github.com/jhimaja/The-great-pizza-analytics.git
     ```
-2.  Import the database schema (provided in `database_schema.sql`).
-3.  Run the queries found in `analysis_queries.sql` to view the insights.
-
+2. Import the database schema (provided in `IDC_Pizza.dump`).
+3. Run the queries found in `pizza_analytics_mini_project.sql` to view the insights.
 ## 🏆 Acknowledgments
 Special thanks to the **21DaysSQLChallenge** by [https://www.indiandataclub.com/] for the continuous learning motivation.
 
