@@ -57,5 +57,5 @@ Using SQL, I solved various business questions, ranging from basic data retrieva
 Special thanks to the **21DaysSQLChallenge by @indiandataclub** for the continuous learning motivation.
 
 ---
-*Created by [J Himaja]*
-*Connect with me on [https://www.linkedin.com/in/himajaj/]*
+** Created by J Himaja **
+** Connect with me on https://www.linkedin.com/in/himajaj/ **
